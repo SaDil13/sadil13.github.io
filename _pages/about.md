@@ -19,7 +19,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 
 # Education
 
-- 09/2023 ~ Present: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "APMA, Brown"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "Brown"){:target="_blank"}
+- 09/2024 ~ Present: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "APMA, Brown"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "Brown"){:target="_blank"}
   - M.Eng. in *Control Science and Engineering* (Advisor: Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl))
 - 09/2020 ~ 06/2024: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "SCGY, USTC"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "USTC"){:target="_blank"}
   - B.Sc. in *Intelligent Science and Technology* (GPA: 4.03/5.0, Ranking: 3/226)
