@@ -6,11 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br/>
+<br/>
+
 # About Me
 
 I'm currently a first-year master's student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), fortunately advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) at the [Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). Previously, I obtained my bachelor's degree of Intelligence Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
 
 My research interest lies in Multi-modal understanding, learning and data generation, Embodied AI, and Embodied generalist agents.
+
+<br/>
+<br/>
 
 # Education
 
@@ -18,6 +24,9 @@ My research interest lies in Multi-modal understanding, learning and data genera
   - M.Eng. in *Control Science and Engineering* (Advisor: Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl))
 - 09/2020 ~ 06/2024: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "SCGY, USTC"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "USTC"){:target="_blank"}
   - B.Sc. in *Intelligent Science and Technology* (GPA: 4.03/5.0, 3/226)
+
+<br/>
+<br/>
 
 # Publications and Preprints
 
@@ -50,10 +59,16 @@ My research interest lies in Multi-modal understanding, learning and data genera
     </div>
 </div>
 
+<br/>
+<br/>
+
 # Experience
 
 - Research Intern, Huawei Noah's Ark Lab(诺亚方舟实验室), 2025.04-Present
 - Research Intern, Tencent SSV ForGood Labs(向善实验室群), 2023.07-2023.11
+
+<br/>
+<br/>
 
 # Honors and Awards
 
