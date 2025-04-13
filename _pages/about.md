@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 <br/>
-<br/>
 
 # About Me
 
-I'm currently a first-year master's student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), fortunately advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) at the [Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). Previously, I obtained my bachelor's degree of Intelligence Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
+I'm currently a first-year master's student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), fortunately advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and Dr. [Bingqian Lin](https://scholar.google.com/citations?user=7tNbAJcAAAAJ) at the [Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). Previously, I obtained my bachelor's degree of Intelligence Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
 
 My research interest lies in Multi-modal understanding, learning and data generation, Embodied AI, and Embodied generalist agents.
 
