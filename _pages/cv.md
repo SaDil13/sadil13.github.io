@@ -25,7 +25,7 @@ redirect_from:
 <div class="publication row clearfix">
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2503.18065">Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</a><br/>
-        <span class="bold"><b>Ziming Wei</b></span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
+        <span class="bold"><b>Ziming Wei</b></span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Jiaqi Chen, Shikui Ma, Hang Xu, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         <!-- <span class="italic">TNNLS</span>, 2025<br/> -->
         <span class="italic">(Under Review</span>)<br/>
         <a class="btn btn-red" href="https://arxiv.org/abs/2503.18065">arXiv</a> / <a class="btn" href="https://github.com/SaDil13/VLN-RAM">code</a>
