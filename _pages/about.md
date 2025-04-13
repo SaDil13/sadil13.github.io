@@ -22,7 +22,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 - 09/2023 ~ Present: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "APMA, Brown"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "Brown"){:target="_blank"}
   - M.Eng. in *Control Science and Engineering* (Advisor: Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl))
 - 09/2020 ~ 06/2024: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "SCGY, USTC"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "USTC"){:target="_blank"}
-  - B.Sc. in *Intelligent Science and Technology* (GPA: 4.03/5.0, 3/226)
+  - B.Sc. in *Intelligent Science and Technology* (GPA: 4.03/5.0, Ranking: 3/226)
 
 <br/>
 <br/>
@@ -73,7 +73,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 
 - Excellent Bachelar Dissertation Award of Sun Yat-sen University, in 2024 ([Top 1 Recommended](https://ise.sysu.edu.cn/teach/teach02/1415767.htm))
 - First Class Award Scholarship of the Graduate School, Sun Yat-sen University, in 2024
-- The Third Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, 2020-2021, 2021-2022, 2022-2023
+- The Third Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, in 2020-2021, 2021-2022 and 2022-2023
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
