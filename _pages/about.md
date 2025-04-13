@@ -32,7 +32,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 <div class="publication row clearfix">
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2503.18065">Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</a><br/>
-        <span class="bold">Ziming Wei</span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang<br/>
+        <span class="bold">Ziming Wei</span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         <!-- <span class="italic">TNNLS</span>, 2025<br/> -->
         <span class="italic">(Under Review</span>)<br/>
         <a class="btn btn-red" href="https://arxiv.org/abs/2503.18065">arXiv</a> / <a class="btn" href="https://github.com/SaDil13/VLN-RAM">code</a>
@@ -43,7 +43,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 <div class="publication row clearfix">
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2403.07376">NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning</a><br/>
-        <span class="bold">Bingqian Lin</span><sup title="Equal Contribution">*</sup>, Yunshuang Nie<sup title="Equal Contribution">*</sup>, Ziming Wei, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang<br/>
+        <span class="bold">Bingqian Lin</span><sup title="Equal Contribution">*</sup>, Yunshuang Nie<sup title="Equal Contribution">*</sup>, Ziming Wei, Jiaqi Chen, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         <span class="italic">(TPAMI</span>, 2025)<br/>
         <a class="btn btn-red" href="https://arxiv.org/abs/2403.07376">arXiv</a> / <a class="btn" href="https://github.com/expectorlin/NavCoT">code</a> / <a class="btn btn-dark" href="https://scholar.googleusercontent.com/scholar.bib?q=info:4eMBD5Yhe-kJ:scholar.google.com/&output=citation&scisdr=ClFwuykLEMfL2NuBElg:AFWwaeYAAAAAZn-HCli5EWPUUsvz76wDLMbWjvw&scisig=AFWwaeYAAAAAZn-HClJR8L5hT8rfLMtHijkmTAw&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a>
     </div>
@@ -52,7 +52,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 <div class="publication row clearfix">
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2405.18721">Correctable Landmark Discovery via Large Models for Vision-Language Navigation</a><br/>
-        <span class="bold">Bingqian Lin</span><sup title="Equal Contribution">*</sup>, Yunshuang Nie<sup title="Equal Contribution">*</sup>, Ziming Wei, Yi Zhu, Hang Xu, Shikui Ma, Jianzhuang Liu, Xiaodan Liang<br/>
+        <span class="bold">Bingqian Lin</span><sup title="Equal Contribution">*</sup>, Yunshuang Nie<sup title="Equal Contribution">*</sup>, Ziming Wei, Yi Zhu, Hang Xu, Shikui Ma, Jianzhuang Liu, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         <span class="italic">(TPAMI</span>, 2024)<br/>
         <a class="btn btn-red" href="https://arxiv.org/abs/2405.18721">arXiv</a> / <a class="btn" href="https://github.com/expectorlin/CONSOLE">code</a> / <a class="btn" href="https://scholar.googleusercontent.com/scholar.bib?q=info:aawz8As7-isJ:scholar.google.com/&output=citation&scisdr=ClFwuykLEMfL2NuDsYU:AFWwaeYAAAAAZn-FqYWKr6syabehBLI4bnvP60M&scisig=AFWwaeYAAAAAZn-FqdvwYHbg-gzrdzg3XjfXGqY&scisf=4&ct=citation&cd=-1&hl=zh-CN">bibtex</a> 
     </div>
