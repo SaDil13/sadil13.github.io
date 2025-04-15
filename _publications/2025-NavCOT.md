@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-NavCOT
 excerpt: 'Vision Language Navigation, Embodied AI'
 date: 2025-03-16
-venue: 'TPAMI, 2025'
+venue: 'TPAMI'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2403.07376'
 citation: '@article{lin2025navcot,

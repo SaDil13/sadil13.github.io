@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-CONSOLE
 excerpt: 'Vision Language Navigation, Embodied AI'
 date: 2024-05-23
-venue: 'TPAMI, 2024'
+venue: 'TPAMI'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2405.18721'
 citation: '@article{lin2024correctable,
