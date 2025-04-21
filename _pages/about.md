@@ -75,6 +75,11 @@ My research interest lies in Multi-modal understanding, learning and data genera
 - First Class Award Scholarship of the Graduate School, Sun Yat-sen University, in 2024
 - The Third Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, in 2020-2021, 2021-2022 and 2022-2023
 
+
+<br/>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VkzRYatEIuQzDBjdwiH5ffJYC2q-lSTR3fZ20m9y4oc&cl=ffffff&w=a"></script>
+
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
