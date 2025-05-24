@@ -71,7 +71,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 
 # Honors and Awards
 
-- Excellent Bachelar Dissertation Award of Sun Yat-sen University, in 2024 ([Top 1 Recommended](https://ise.sysu.edu.cn/teach/teach02/1415767.htm))
+- Excellent Bachelar Dissertation Award of Sun Yat-sen University, in 2024 ([Top 1 Recommended](https://ise.sysu.edu.cn/article/992))
 - First Class Award Scholarship of the Graduate School, Sun Yat-sen University, in 2024
 - The Third Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, in 2020-2021, 2021-2022 and 2022-2023
 
