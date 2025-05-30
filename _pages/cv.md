@@ -24,6 +24,14 @@ redirect_from:
 
 <div class="publication row clearfix">
     <div class="row-text">
+        <a class="publication-title bold" href="https://arxiv.org/abs/2505.20148">MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents</a><br/>
+        <span class="bold"><b>Ziming Wei</b></span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Zijian Jiao<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Liang Ma, Yuecheng Liu, Yuzheng Zhuang, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
+        <a class="btn btn-dark" href="https://mineanybuild.github.io/">project</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2505.20148">arXiv</a> / <a class="btn" href="https://github.com/MineAnyBuild/MineAnyBuild">code</a> / <a class="btn btn-dark" href="https://huggingface.co/datasets/SaDil/MineAnyBuild">dataset</a>
+    </div>
+</div>
+<br/>
+<div class="publication row clearfix">
+    <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2503.18065">Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</a><br/>
         <span class="bold"><b>Ziming Wei</b></span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Jiaqi Chen, Shikui Ma, Hang Xu, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         <!-- <span class="italic">TNNLS</span>, 2025<br/> -->
