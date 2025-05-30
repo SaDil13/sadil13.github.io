@@ -26,6 +26,7 @@ redirect_from:
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2505.20148">MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents</a><br/>
         <span class="bold"><b>Ziming Wei</b></span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Zijian Jiao<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Liang Ma, Yuecheng Liu, Yuzheng Zhuang, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
+        <span class="italic">(Under Review</span>)<br/>
         <a class="btn btn-dark" href="https://mineanybuild.github.io/">project</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2505.20148">arXiv</a> / <a class="btn" href="https://github.com/MineAnyBuild/MineAnyBuild">code</a> / <a class="btn btn-dark" href="https://huggingface.co/datasets/SaDil/MineAnyBuild">dataset</a>
     </div>
 </div>
