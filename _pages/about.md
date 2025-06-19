@@ -73,7 +73,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 # Experience
 
 - Research Intern, Huawei Noah's Ark Lab(诺亚方舟实验室), 2025.04-Present
-- Research Intern, Tencent SSV ForGood Labs(向善实验室群), 2023.07-2023.11
+- Data Engineering Intern, Tencent SSV ForGood Labs(向善实验室群), 2023.07-2023.11
 
 <br/>
 <br/>
