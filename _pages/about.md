@@ -103,6 +103,8 @@ My research interest lies in Multi-modal understanding, learning and data genera
 - The Third Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, in 2020-2021, 2021-2022 and 2022-2023
 
 
-<!-- <br/>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VkzRYatEIuQzDBjdwiH5ffJYC2q-lSTR3fZ20m9y4oc&cl=ffffff&w=a"></script> -->
+<br/>
+<div style="display: none;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VkzRYatEIuQzDBjdwiH5ffJYC2q-lSTR3fZ20m9y4oc&cl=ffffff&w=a"></script>
+</div>
 
