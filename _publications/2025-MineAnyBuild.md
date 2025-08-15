@@ -1,7 +1,7 @@
 ---
 title: "MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-MineAnyBuild
 excerpt: 'AI Agent, Multimodal Large Language Model, Spatial Planning, Benchmark'
 date: 2025-05-26
