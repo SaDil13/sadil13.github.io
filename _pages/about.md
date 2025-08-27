@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I'm currently a first-year master's student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), fortunately advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and Dr. [Bingqian Lin](https://scholar.google.com/citations?user=7tNbAJcAAAAJ) at the [Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). Previously, I obtained my bachelor's degree of Intelligence Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
+I'm currently a second-year master's student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), fortunately advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and Dr. [Bingqian Lin](https://scholar.google.com/citations?user=7tNbAJcAAAAJ) at the [Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). Previously, I obtained my bachelor's degree of Intelligence Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
 
 My research interest lies in Multi-modal understanding, learning and data generation, Embodied AI, and Embodied generalist agents.
 
@@ -19,7 +19,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 
 # Education
 
-- 09/2024 ~ Present: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "APMA, Brown"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "Brown"){:target="_blank"}
+- 09/2024 ~ 06/2027(Expected): [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "APMA, Brown"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "Brown"){:target="_blank"}
   - M.Eng. in *Control Science and Engineering* (Advisor: Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl))
 - 09/2020 ~ 06/2024: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "SCGY, USTC"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "USTC"){:target="_blank"}
   - B.Sc. in *Intelligent Science and Technology* (GPA: 4.03/5.0, Ranking: 3/226)
