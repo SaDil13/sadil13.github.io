@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-PhyBlock
 excerpt: 'Embodied AI, Vision-Language Understanding, Vision Language Models, Benchmark'
 date: 2025-06-10
-venue: 'Under Review'
+venue: 'NeurIPS 2025 Datasets and Benchmarks Track'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2506.08708'
 citation: 'https://sadil13.github.io/assets/bibtex/phyblock.bib'

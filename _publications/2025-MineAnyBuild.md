@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-MineAnyBuild
 excerpt: 'AI Agent, Multimodal Large Language Model, Spatial Planning, Benchmark'
 date: 2025-05-26
-venue: 'Under Review'
+venue: 'NeurIPS 2025 Datasets and Benchmarks Track'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2505.20148'
 citation: 'https://sadil13.github.io/assets/bibtex/mineanybuild.bib'

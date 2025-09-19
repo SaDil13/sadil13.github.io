@@ -12,7 +12,7 @@ redirect_from:
 
 I'm currently a second-year master's student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), fortunately advised by Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl) and Dr. [Bingqian Lin](https://scholar.google.com/citations?user=7tNbAJcAAAAJ) at the [Human Cyber Physical Intelligence Integration Lab (HCP-I2 Lab)](https://www.sysu-hcp.net/). Previously, I obtained my bachelor's degree of Intelligence Science and Technology from [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2024.
 
-My research interest lies in Multi-modal understanding, learning and data generation, Embodied AI, and Embodied generalist agents.
+My research interest lies in Multi-modal understanding, learning and data generation, Embodied AI, Spatial Intelligence, and Embodied generalist agents.
 
 <br/>
 <br/>
@@ -20,7 +20,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 # Education
 
 - 09/2024 ~ 06/2027(Expected): [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "APMA, Brown"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "Brown"){:target="_blank"}
-  - M.Eng. in *Control Science and Engineering* (Advisor: Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl), Weighted Average Score: 92.58/100.0)
+  - M.Eng. in *Control Science and Engineering* (Advisor: Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl), Weighted Average Score: 91.74/100.0)
 - 09/2020 ~ 06/2024: [School of Intelligent Systems Engineering](https://ise.sysu.edu.cn/ "SCGY, USTC"){:target="_blank"}, [Sun Yat-sen University](https://www.sysu.edu.cn/ "USTC"){:target="_blank"}
   - B.Sc. in *Intelligent Science and Technology* (GPA: 4.03/5.0, Ranking: 3/226, Top 1%)
 
@@ -33,8 +33,8 @@ My research interest lies in Multi-modal understanding, learning and data genera
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2505.20148">MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents</a><br/>
         <span class="bold"><b>Ziming Wei</b></span><sup title="Equal Contribution">*</sup>, Bingqian Lin<sup title="Equal Contribution">*</sup>, Zijian Jiao<sup title="Equal Contribution">*</sup>, Yunshuang Nie, Liang Ma, Yuecheng Liu, Yuzheng Zhuang, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
-        <!-- (Submitted to <span class="italic">NeurIPS 2025 Datasets and Benchmarks Track</span>)<br/> -->
-        (<span class="italic">Under Review</span>)<br/>
+        (<span class="italic">NeurIPS 2025 Datasets and Benchmarks Track</span>)<br/>
+        <!-- (<span class="italic">Under Review</span>)<br/> -->
         <a class="btn btn-dark" href="https://mineanybuild.github.io/">project</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2505.20148">arXiv</a> / <a class="btn" href="https://github.com/MineAnyBuild/MineAnyBuild">code</a> / <a class="btn btn-dark" href="https://huggingface.co/datasets/SaDil/MineAnyBuild">dataset</a> / <a class="btn" href="/assets/bibtex/mineanybuild.bib">bibtex</a> 
     </div>
 </div>
@@ -80,7 +80,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2405.18721">PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly</a><br/>
         <span class="bold">Liang Ma</span><sup title="Equal Contribution">*</sup>, Jiajun Wen</span><sup title="Equal Contribution">*</sup>, Min Lin</span><sup title="Equal Contribution">*</sup>, Rongtao Xu</span><sup title="Equal Contribution">*</sup>, Xiwen Liang</span><sup title="Equal Contribution">*</sup>, Bingqian Lin, Jun Ma, Yongxin Wang, <b>Ziming Wei</b>, Haokun Lin, Mingfei Han, Meng Cao, Bokui Chen, Ivan Laptev, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
-        (<span class="italic">Under Review</span>)<br/>
+        (<span class="italic">NeurIPS 2025 Datasets and Benchmarks Track</span>)<br/>
         <a class="btn btn-dark" href="https://phyblock.github.io/">project</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2506.08708">arXiv</a> / <a class="btn" href="https://github.com/PhyBlock/PhyBlock">code</a> / <a class="btn btn-dark" href="https://huggingface.co/datasets/PhyBlock/PhyBlock_Benchmark">dataset</a> / <a class="btn" href="/assets/bibtex/phyblock.bib">bibtex</a> 
     </div>
 </div>
@@ -98,8 +98,8 @@ My research interest lies in Multi-modal understanding, learning and data genera
 
 # Honors and Awards
 
+- First Class Award Scholarship of the Graduate School, Sun Yat-sen University, in 2024, 2025
 - Excellent Bachelar Dissertation Award of Sun Yat-sen University, in 2024 ([Top 1 Recommended](https://ise.sysu.edu.cn/article/992))
-- First Class Award Scholarship of the Graduate School, Sun Yat-sen University, in 2024
 - Third Class Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, in 2020-2021, 2021-2022 and 2022-2023
 
 
