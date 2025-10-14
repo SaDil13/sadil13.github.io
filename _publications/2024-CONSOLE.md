@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-CONSOLE
 excerpt: 'Vision Language Navigation, Embodied AI'
 date: 2024-05-23
-venue: 'TPAMI'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2405.18721'
 citation: 'https://sadil13.github.io/assets/bibtex/console.bib'

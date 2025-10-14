@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-NavCOT
 excerpt: 'Vision Language Navigation, Embodied AI'
 date: 2025-03-16
-venue: 'TPAMI'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2403.07376'
 citation: 'https://sadil13.github.io/assets/bibtex/navcot.bib'
