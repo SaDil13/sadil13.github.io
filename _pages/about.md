@@ -69,8 +69,8 @@ My research interest lies in Multi-modal understanding, learning and data genera
 <br/>
 <div class="publication row clearfix">
     <div class="row-text">
-        <a class="publication-title bold" href="https://arxiv.org/abs/2506.01551">EvolveNav: Self-Improving Embodied Reasoning for LLM-Based Vision-Language Navigation</a><br/>
-        <span class="bold">Bingqian Lin</span><sup title="Equal Contribution">*</sup>, Yunshuang Nie<sup title="Equal Contribution">*</sup>, Khun Loun Zai, <b>Ziming Wei</b>, Mingfei Han, Rongtao Xu, Minzhe Niu, Jianhua Han, Liang Lin, Cewu Lu, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
+        <a class="publication-title bold" href="https://arxiv.org/abs/2506.01551">EvolveNav: Empowering LLM-Based Vision-Language Navigation via Self-Improving Embodied Reasoning</a><br/>
+        <span class="bold">Bingqian Lin</span><sup title="Equal Contribution">*</sup>, Yunshuang Nie<sup title="Equal Contribution">*</sup>, Khun Loun Zai, <b>Ziming Wei</b>, Mingfei Han, Rongtao Xu, Minzhe Niu, Jianhua Han, Hanwang Zhang, Liang Lin, Bokui Chen<sup title="Corresponding Author">&dagger;</sup>, Cewu Lu<sup title="Corresponding Author">&dagger;</sup>, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         (<span class="italic">Under Review</span>)<br/>
         <a class="btn btn-red" href="https://arxiv.org/abs/2506.01551">arXiv</a> / <a class="btn" href="https://github.com/expectorlin/EvolveNav">Code</a> / <a class="btn" href="/assets/bibtex/evolvenav.bib">bibtex</a> 
     </div>
@@ -79,7 +79,7 @@ My research interest lies in Multi-modal understanding, learning and data genera
 <div class="publication row clearfix">
     <div class="row-text">
         <a class="publication-title bold" href="https://arxiv.org/abs/2405.18721">PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly</a><br/>
-        <span class="bold">Liang Ma</span><sup title="Equal Contribution">*</sup>, Jiajun Wen<sup title="Equal Contribution">*</sup>, Min Lin<sup title="Equal Contribution">*</sup>, Rongtao Xu<sup title="Equal Contribution">*</sup>, Xiwen Liang<sup title="Equal Contribution">*</sup>, Bingqian Lin, Jun Ma, Yongxin Wang, <b>Ziming Wei</b>, Haokun Lin, Mingfei Han, Meng Cao, Bokui Chen, Ivan Laptev, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
+        <span class="bold">Liang Ma</span><sup title="Equal Contribution">*</sup>, Jiajun Wen<sup title="Equal Contribution">*</sup>, Min Lin<sup title="Equal Contribution">*</sup>, Rongtao Xu<sup title="Equal Contribution">*</sup>, Xiwen Liang<sup title="Equal Contribution">*</sup>, Bingqian Lin, Jun Ma, Yongxin Wang, <b>Ziming Wei</b>, Haokun Lin, Mingfei Han, Meng Cao, Bokui Chen<sup title="Corresponding Author">&dagger;</sup>, Ivan Laptev, Xiaodan Liang<sup title="Corresponding Author">&dagger;</sup><br/>
         (<span class="italic">NeurIPS 2025 Datasets and Benchmarks Track</span>)<br/>
         <a class="btn btn-dark" href="https://phyblock.github.io/">project</a> / <a class="btn btn-red" href="https://arxiv.org/abs/2506.08708">Paper</a> / <a class="btn" href="https://github.com/PhyBlock/PhyBlock">Code</a> / <a class="btn btn-dark" href="https://huggingface.co/datasets/PhyBlock/PhyBlock_Benchmark">dataset</a> / <a class="btn" href="/assets/bibtex/phyblock.bib">bibtex</a> 
     </div>
