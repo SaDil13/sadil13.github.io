@@ -114,3 +114,12 @@ I am currently seeking 2027 new graduate opportunities in the fall campus recrui
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VkzRYatEIuQzDBjdwiH5ffJYC2q-lSTR3fZ20m9y4oc&cl=ffffff&w=a"></script>
 </div> -->
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GBFYRWCHED"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GBFYRWCHED');
+</script>
