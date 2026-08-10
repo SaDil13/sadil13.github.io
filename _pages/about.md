@@ -109,8 +109,8 @@ I am currently seeking 2027 new graduate opportunities in the fall campus recrui
 - Third Class Award Scholarship of Sun Yat-sen University Excellent Student, Sun Yat-sen University, China, in 2020-2021, 2021-2022 and 2022-2023
 
 
-<br/>
+<!-- <br/>
 <div style="display: none;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VkzRYatEIuQzDBjdwiH5ffJYC2q-lSTR3fZ20m9y4oc&cl=ffffff&w=a"></script>
-</div>
+</div> -->
 
