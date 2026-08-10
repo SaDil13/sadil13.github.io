@@ -151,6 +151,16 @@ analytics:
   google:
     tracking_id          :  "G-GBFYRWCHED"
 
+# 统计
+webAnalytics:  
+  enable: true
+  baidu:   
+  google: G-GBFYRWCHED
+  tencent: 
+    sid:
+    cid:
+
+
 
 # Reading Files
 include:
