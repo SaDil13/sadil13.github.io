@@ -14,9 +14,11 @@ I'm currently a second-year master's student at [Sun Yat-sen University (SYSU)](
 
 My research interest lies in Multi-modal understanding, learning and data generation, Embodied AI, Spatial Intelligence, and Embodied generalist agents.
 
-我正在寻求2027应届的秋季校园招聘机会，非常欢迎加我微信（微信号：wei982563369）或是email我（邮箱：weizm3@mail2.sysu.edu.cn或wei982563369@126.com）来联系我，非常感谢！
+Email: wei982563369@126.com or weizm3@mail2.sysu.edu.cn
 
-I am currently seeking 2027 new graduate opportunities in the fall campus recruitment season. Please feel free to contact me via WeChat (ID: wei982563369) or email (weizm3@mail2.sysu.edu.cn or wei982563369@126.com). Thank you very much!
+<!-- 我正在寻求2027应届的秋季校园招聘机会，非常欢迎加我微信（微信号：wei982563369）或是email我（邮箱：weizm3@mail2.sysu.edu.cn或wei982563369@126.com）来联系我，非常感谢！
+
+I am currently seeking 2027 new graduate opportunities in the fall campus recruitment season. Please feel free to contact me via WeChat (ID: wei982563369) or email (weizm3@mail2.sysu.edu.cn or wei982563369@126.com). Thank you very much! -->
 
 
 
